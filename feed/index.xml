@@ -8,16 +8,16 @@
 	>
 
 <channel>
-	<title>Template Fast Static</title>
+	<title>Pintumax y acabados</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Wed, 06 Nov 2024 18:28:37 +0000</lastBuildDate>
+	<description>Eleva tus estándares</description>
+	<lastBuildDate>Thu, 14 Nov 2024 19:24:40 +0000</lastBuildDate>
 	<language>es</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6.2</generator>
+	<generator>https://wordpress.org/?v=6.7</generator>
 </channel>
 </rss>
